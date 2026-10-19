@@ -1,0 +1,20 @@
+{
+  "name": "lakewave",
+  "displayName": "Lakewave",
+  "version": "1.0.0",
+  "description": "Verified people at the accounts you name, email verdicts, public-sector contracts ending soon, and campaigns filled with drafts you approve. Outcome priced; never sends email.",
+  "author": {
+    "name": "Lakewave.ai",
+    "email": "support@lakewave.ai",
+    "url": "https://lakewave.ai"
+  },
+  "homepage": "https://lakewave.ai/agents/",
+  "repository": "https://github.com/taylorsec/lakewave-plugin",
+  "license": "MIT",
+  "keywords": ["sales", "prospecting", "b2b", "email verification", "public sector", "sled", "lead generation", "outbound"],
+  "icon": "./icon.png",
+  "documentationUrl": "https://lakewave.ai/agents/",
+  "supportUrl": "https://lakewave.ai/agents/",
+  "privacyPolicyUrl": "https://lakewave.ai/privacy",
+  "termsOfServiceUrl": "https://lakewave.ai/terms"
+}

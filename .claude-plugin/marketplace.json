@@ -1,0 +1,15 @@
+{
+  "name": "lakewave",
+  "owner": {
+    "name": "Lakewave.ai",
+    "email": "support@lakewave.ai"
+  },
+  "description": "Lakewave's plugin for Claude: verified B2B contacts, email verification, public-sector rebid signals and campaign drafts.",
+  "plugins": [
+    {
+      "name": "lakewave",
+      "source": "./",
+      "description": "Verified people at the accounts you name, email verdicts, public-sector contracts ending soon, and campaigns filled with drafts you approve."
+    }
+  ]
+}

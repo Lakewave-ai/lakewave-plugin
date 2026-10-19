@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "lakewave": {
+      "type": "http",
+      "url": "https://app.lakewave.ai/mcp"
+    }
+  }
+}
