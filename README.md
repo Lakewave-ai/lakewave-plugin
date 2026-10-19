@@ -2,8 +2,6 @@
 
 Lakewave finds and verifies the people a B2B seller needs at the accounts they name, checks email addresses before anyone sends, surfaces public-sector contracts that are coming up for rebid, and fills campaigns with personalized drafts that a person approves. This plugin connects Claude to Lakewave and adds four skills that teach Claude how to use it well.
 
-![Lakewave](./icon.png)
-
 ## What you get
 
 **The Lakewave connector** (`https://app.lakewave.ai/mcp`), with eleven tools:
@@ -30,7 +28,7 @@ Lakewave finds and verifies the people a B2B seller needs at the accounts they n
 
 1. Install the plugin from the Claude directory. In Claude Code you can also install it straight from this repository:
    ```
-   /plugin install lakewave --marketplace taylorsec/lakewave-plugin
+   /plugin install lakewave --marketplace Lakewave-ai/lakewave-plugin
    ```
 2. When Claude first uses Lakewave it opens a Lakewave sign-in. Sign in (or create a free account) and approve the connection. Campaign creation is off unless you tick it.
 3. Ask, for example: "Find the IT directors at these eight accounts in Texas and verify them."

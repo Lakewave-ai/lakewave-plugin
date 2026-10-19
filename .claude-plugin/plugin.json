@@ -9,7 +9,7 @@
     "url": "https://lakewave.ai"
   },
   "homepage": "https://lakewave.ai/agents/",
-  "repository": "https://github.com/taylorsec/lakewave-plugin",
+  "repository": "https://github.com/Lakewave-ai/lakewave-plugin",
   "license": "MIT",
   "keywords": ["sales", "prospecting", "b2b", "email verification", "public sector", "sled", "lead generation", "outbound"],
   "icon": "./icon.png",
